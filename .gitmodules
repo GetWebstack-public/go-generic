@@ -1,0 +1,3 @@
+[submodule "go-generic"]
+	path = go-generic
+	url = git@github.com:GetWebstack-public/go-generic.git
